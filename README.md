@@ -66,3 +66,19 @@ What if we replaced the centralised database with a decentralised application bu
 ## Thumbnail
 
 <img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/xdc%20ride.png" width="500" >
+
+## Our Team
+- [Balaji Kannan](https://github.com/jayaanandabalaji) 
+- Jagan Chandru 
+- Sai Charan
+- BHARANIDHARAN S
+
+## About [PLI BLOCKATHON INDIA '22](https://plugin.devpost.com/)
+The hackathon was thoroughly interesting, inspiring and informational. We were completely unaware about blockchain technology before the event, but now we got good idea on blockchain. Developing our first blockchain Dapp on XDC network was super exciting. Mentors supported us throughout the event. Free goodies for all paticipants, small fun activities in between, interaction between participants and organizers were fun. 
+
+## License
+
+Feel free to use the scipt for your project
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
