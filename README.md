@@ -35,15 +35,15 @@ Android Apk
 
 we have also worked on website using flutter web and [flutter_web3](https://pub.dev/packages/flutter_web3) package. Below are the screenshots.
 
-<img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/blockathon%201.png" width="250" >
+<img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/blockathon%201.png" width="400" >
 
 
-<img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/blockathon%202.png" width="250" >
+<img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/blockathon%202.png" width="400" >
 
 
-<img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/blockathon%203.png" width="250" >
+<img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/blockathon%203.png" width="400" >
 
-<img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/blockathon%204.png" width="250" >
+<img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/blockathon%204.png" width="400" >
 
 ## XDC Network Smart Contracts
 - Smart contracts for creating ride request, picking ride by driver, checking nearby rides and other needed functions have been developed.
