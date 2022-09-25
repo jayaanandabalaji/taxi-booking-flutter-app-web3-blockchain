@@ -65,4 +65,4 @@ What if we replaced the centralised database with a decentralised application bu
 
 ## Thumbnail
 
-<img src="[https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/blockathon%204.png](https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/xdc%20ride.png)" width="500" >
+<img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/xdc%20ride.png" width="500" >
