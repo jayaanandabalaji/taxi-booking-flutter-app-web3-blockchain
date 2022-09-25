@@ -62,3 +62,7 @@ But, the commission percentage is a way too high starting from 15% to as high as
 The above problems could be solved by developing a decentralized cab booking system.  Since the current platforms use centralised databases and communicate with the app through their servers, the platforms have the permission to decide everything, starting from fare, commission, and directions. So the platforms, after gaining popularity, just increase their commission.
 
 What if we replaced the centralised database with a decentralised application built with blockchain, where all rides are securely recorded as smart contacts? It would increase transparency on fares, pickup and drop locations, distance and duration of trips, and thus reduce fare cheating. Also, drivers need not pay commissions to the platforms.
+
+## Thumbnail
+
+<img src="[https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/blockathon%204.png](https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/xdc%20ride.png)" width="500" >
