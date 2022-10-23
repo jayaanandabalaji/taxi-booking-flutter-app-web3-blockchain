@@ -20,7 +20,6 @@ class _SplashState extends State<Splash> {
     splashMove();
   }
 
-  navigatePage() {}
 
   splashMove() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
