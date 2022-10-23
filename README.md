@@ -1,6 +1,6 @@
 
 ## Cab Booking android and IOS dapp flutter blockchain 👋
-A simple peer to peer ridesharing blockchain dapp built using XDC Network smart contracts. The project have been developed for [PLI BLOCKATHON INDIA '22](https://plugin.devpost.com/). We worked with a inspiring team of 4 members. We have lost on the hackathon, but we have learnt so many things. Below is our project we have developed for the 36 hours blockathon.
+A simple peer to peer ridesharing blockchain dapp built using  smart contracts. 
 
 ## 🔗 Demo Link
 
@@ -46,11 +46,11 @@ we have also worked on website using flutter web and [flutter_web3](https://pub.
 <img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/blockathon%204.png" width="500" >
 
 
-## XDC Network Smart Contracts
+##  Smart Contracts
 - Smart contracts for creating ride request, picking ride by driver, checking nearby rides and other needed functions have been developed.
 - A transaction for block will be created when new ride is requested by rider.
 - You can check the smart contract code and transaction here : [https://explorer.apothem.network/address/xdc05dd0275a105b91f28d1478cf5696566024353a4#transactions](https://explorer.apothem.network/address/xdc05dd0275a105b91f28d1478cf5696566024353a4#transactions)
-- XDC Wallet Private key for testing in app : **05f495a3b3a457fd6fef7a437f5e2cac8c7250f634d83e1acacaeed1f7fef86f**
+- Wallet Private key for testing in app : **05f495a3b3a457fd6fef7a437f5e2cac8c7250f634d83e1acacaeed1f7fef86f**
 
 
 ## Problem
@@ -63,18 +63,7 @@ The above problems could be solved by developing a decentralized cab booking sys
 
 What if we replaced the centralised database with a decentralised application built with blockchain, where all rides are securely recorded as smart contacts? It would increase transparency on fares, pickup and drop locations, distance and duration of trips, and thus reduce fare cheating. Also, drivers need not pay commissions to the platforms.
 
-## Thumbnail
 
-<img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/xdc%20ride.png" width="500" >
-
-## Our Team
-- [Balaji Kannan](https://github.com/jayaanandabalaji) 
-- Jagan Chandru 
-- Sai Charan
-- BHARANIDHARAN S
-
-## About [PLI BLOCKATHON INDIA '22](https://plugin.devpost.com/)
-The hackathon was thoroughly interesting, inspiring and informational. We were completely unaware about blockchain technology before the event, but now we got good idea on blockchain. Developing our first blockchain Dapp on XDC network was super exciting. Mentors supported us throughout the event. Free goodies for all paticipants, small fun activities in between, interaction between participants and organizers were fun. 
 
 ## License
 
