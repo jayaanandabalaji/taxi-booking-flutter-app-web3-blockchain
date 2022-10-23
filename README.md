@@ -25,7 +25,7 @@ Android Apk
 
 <img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/4.jpg" width="250" >
 
-**Login using XDC**
+**Login using blockchain wallet**
 
 <img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/5.jpeg" width="250" >
 
