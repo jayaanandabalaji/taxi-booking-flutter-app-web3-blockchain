@@ -11,11 +11,11 @@ Android Apk
 
 **App**
 
-<img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/1.jpg" width="250" >
+<img src="https://lh3.googleusercontent.com/pw/AMWts8ALLCSNfADy4x-lG72O4kQN2tRCLW-JoGKYpmQChHgIf2CInM29i8r8Ti_Y68H-bMjIh4Ua59eicXkupWLDkO7Lrh0K8K6sQC8PCycDRjXXqUDdEKlRxz2w7wakDyChtdDdmmkJaJz__sgvBHKvxcM=w300-h649-s-no?authuser=0" width="250" >
 
 **Dashboard**
 
-<img src="https://raw.githubusercontent.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/master/screenshots/2.jpg" width="250" >
+<img src="https://lh3.googleusercontent.com/pw/AMWts8AD0OiBFBVyWaXvhw60rJLQ8Hj1AtXx4rIUZ5wcxSQhVnMcHYeQBVLIfUiwQQhwK6RUvMRW_ASxd15EbDeO5O3HcvSMvTRzVe0ppymB8TwjoIDNyF7XuQmloGICBZvhoG8LzES_v0aKOX4Au-gp-N0=w300-h649-s-no?authuser=0" width="250" >
 
 **Ride status**
 
