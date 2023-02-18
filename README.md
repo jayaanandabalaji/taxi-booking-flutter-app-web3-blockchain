@@ -6,7 +6,7 @@ A simple peer to peer ridesharing blockchain dapp built using  smart contracts.
 
 Android Apk
 
-<a href="https://github.com/jayaanandabalaji/taxi-booking-flutter-app-web3-blockchain/blob/master/apk/app-release.apk?raw=true"><img src="https://www.yt3dl.net/images/apk-download-badge.png" style="height:100px;"></a>
+<a href="https://mega.nz/file/JoBSzaKD#JSxYoqxq1WZh8KZxfB5txjE3yDPQumwyDQsKfkKrdwo"><img src="https://www.yt3dl.net/images/apk-download-badge.png" style="height:100px;"></a>
 ## 📸 Screenshots
 
 **App**
